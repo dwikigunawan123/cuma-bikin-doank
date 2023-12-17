@@ -1,2 +1,2 @@
-# cuma-bikin-doank
-lu semua anak rajin
+# Pemograman kelas C
+masih pemula bang, ajarin donk puh sepuh!!!
